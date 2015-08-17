@@ -1,4 +1,4 @@
-[2Tokyo2Drift](https://ccrma.stanford.edu/~jjcorona/software/2Tokyo2Drift/index.html)
+[2Tokyo2Drift](http://joshua.coronado.io/software/2tokyo_2drift.html)
 ============
 
 A drum sequencer.
